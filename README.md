@@ -21,7 +21,7 @@ $ pip install -r requirements.txt
 $ python main.py
 ```
 
-No console, digite o usuário que deseja buscar a URL da imagem do perfil. 
+No console, digite o usuário do Github que você deseja buscar a URL da imagem do perfil. 
 Em seguida, será apresentado a URL absoluta da imagem. 
 
 #### :floppy_disk: Fonte original de pesquisa:
