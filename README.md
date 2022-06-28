@@ -1,4 +1,4 @@
-# Fast Track Crawler em Python com BeautifulSoup
+# :spider: Fast Track Crawler em Python com BeautifulSoup
 
 Um crawler simples em Python utilizando BeautifulSoup
 
